@@ -1,0 +1,58 @@
+{
+  "employees": [
+    {
+      "name": "dhiru",
+      "age": "23",
+      "address": "birgunj",
+      "department": "tech",
+      "salary": "110000",
+      "maritalStatus": "unmarried",
+      "id": 1
+    },
+    {
+      "name": "harinam",
+      "age": "20",
+      "address": "birgunj",
+      "department": "administration",
+      "salary": "110000",
+      "maritalStatus": "unmarried",
+      "id": 3
+    },
+    {
+      "name": "hariKrishna",
+      "age": "18",
+      "address": "beldari",
+      "department": "marketing",
+      "salary": "110000",
+      "maritalStatus": "unmarried",
+      "id": 4
+    },
+    {
+      "name": "dhirendra",
+      "age": "23",
+      "address": "606, Sai Leela Building, New Link Road, Ganesh Nagar, Andheri West",
+      "department": "tech",
+      "salary": "225000",
+      "maritalStatus": "unmarried",
+      "id": 5
+    },
+    {
+      "name": "subham",
+      "age": "10",
+      "address": "kathmandu",
+      "department": "tech",
+      "salary": "100000",
+      "maritalStatus": "unmarried",
+      "id": 6
+    },
+    {
+      "name": "soham",
+      "age": "8",
+      "address": "kathmandu",
+      "department": "administration",
+      "salary": "110000",
+      "maritalStatus": "unmarried",
+      "id": 7
+    }
+  ]
+}
